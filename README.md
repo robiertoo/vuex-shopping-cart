@@ -1,5 +1,7 @@
 # shopping-cart
 
+[Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
 ## Project setup
 ```
 yarn install
